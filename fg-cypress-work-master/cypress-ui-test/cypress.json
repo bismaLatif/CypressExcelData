@@ -1,0 +1,6 @@
+{
+    "baseUrl":"https://opensource-demo.orangehrmlive.com/",
+    "ignoreTestFiles": [ "**/1-getting-started/*","**/2-advanced-examples/*","*demo.js*"],
+    "viewportHeight": 1080,
+    "viewportWidth": 1920
+}

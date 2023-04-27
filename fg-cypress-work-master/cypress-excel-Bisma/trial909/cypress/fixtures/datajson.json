@@ -1,0 +1,32 @@
+[
+  {
+    "firstname": "Emily",
+    "lastname": "Cooper",
+    "id": "123343",
+    "licenseno": "3444",
+    "licenseExpiryDate": "2022-01-04",
+    "SinNo": "983",
+    "EmpNickName": "Emily",
+    "MilitaryGrade": "major",
+    "Nationality": "Indian",
+    "MaritalStatus": "Single",
+    "OtherID": "22324",
+    "Dob": "1995-05-05",
+    "bloodGroup": "A+"
+  },
+  {
+    "firstname": "john",
+    "lastname": "doe",
+    "id": "9878778",
+    "licenseno": "33332",
+    "licenseExpiryDate": "2022-05-04",
+    "SinNo": "123445",
+    "EmpNickName": "John",
+    "MilitaryGrade": "captain",
+    "Nationality": "Indian",
+    "MaritalStatus": "Single",
+    "OtherID": "56666",
+    "Dob": "1999-05-05",
+    "bloodGroup": "A-"
+  }
+]

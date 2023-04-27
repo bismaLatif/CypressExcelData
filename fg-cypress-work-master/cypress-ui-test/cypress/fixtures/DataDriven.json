@@ -1,0 +1,28 @@
+{
+
+  "loginUsername": "admin",
+  "loginPassword":"admin123",
+  "userRole":"ESS", 
+  "employeeName":"Joe Root",
+  "userName":"TestJai50",
+  "status":"Enabled",
+  "password":"Test@123",
+
+  "JobTitle":"DummyJobTitle50",
+  "JobDescription":"This is Dummy description for the Job",
+  "JobSpecificationFile":"Docs/dummy.pdf",
+  "JobNotes":"Dummy Notes for the Dummy Job",
+
+  "GradeName":"Garde 50",
+  "Currency":"PKR",
+  "CurrencyMinSalary":"1000",
+  "CurrencyMaxSalary":"9999",
+
+  "EmpStatusName":"Part-Time Freelancer",
+
+  "shiftName":"Morning Shift",
+  "workHoursFrom":"09:00",
+  "workHoursTo":"18:00",
+
+  "LogoPath":"Docs/CompanyLogo.png"
+}
